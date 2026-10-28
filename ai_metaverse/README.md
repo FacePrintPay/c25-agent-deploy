@@ -217,3 +217,4 @@ For support, please create an issue in the GitHub repository or contact the deve
 ## Disclaimer
 
 This is a development version of the AI Metaverse System. Features and capabilities may change as the system evolves.
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=README.md

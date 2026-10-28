@@ -154,3 +154,4 @@ class MoonAssistant(BaseAssistant):
                     if language not in self.correction_templates:
                         self.correction_templates[language] = {}
                     self.correction_templates[language][error_type] = feedback['new_template']
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=moon.py

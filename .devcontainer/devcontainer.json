@@ -2,3 +2,5 @@ gh repo clone Constellation25/blackboxai-1742376990260{
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {}
 }
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=devcontainer.json

@@ -5,3 +5,5 @@ echo "🧪 Testing: c25-agent-deploy"
 # Test 2: PATHOS connection
 curl -s --max-time 3 http://localhost:3000/api/proxy > /dev/null &&     echo "✅ PATHOS connected" || echo "⚠️  PATHOS offline"
 echo "✅ c25-agent-deploy tests done"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=test.sh
